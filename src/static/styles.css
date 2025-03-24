@@ -74,6 +74,13 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Add this new style */
+.activity-card p strong {
+  display: block;
+  margin-top: 10px;
+  color: #333;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
